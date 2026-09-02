@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# After publishing, add your final sitemap URL here.
-# Sitemap: https://YOUR-GITHUB-USERNAME.github.io/REPOSITORY-NAME/sitemap.xml
